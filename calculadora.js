@@ -5,3 +5,6 @@ function suma(){
 
 	document.getElementById("resultado").value = resultado ;
 }
+
+//Se hizo un comentario
+//Se hizo un comentario en maini
